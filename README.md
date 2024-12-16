@@ -1,2 +1,2 @@
 # Mercury
-[url=https://imgbb.com/][img]https://i.ibb.co/gjwkVFT/Screenshot-1.png[/img][/url]
+<img src="http://example.com/image.png" width="60" height="60">
